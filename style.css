@@ -23,6 +23,10 @@ body{
 }
 
 /*começo do header*/
+#h1Sou{
+    font-size: 2rem;
+}
+
 h1{
     color: var(--subTitulos2);
 }
