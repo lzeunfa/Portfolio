@@ -1,3 +1,3 @@
-# Portfolio2.0
-Criando meu novo portfólio.
+# Meu Portfolio
+Criei meu portfólio! Acesse clicando abaixo <br>
 [acessar](https://lzeunfa.github.io/Portfolio/sobre.html)
